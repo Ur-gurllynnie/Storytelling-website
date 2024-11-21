@@ -1,0 +1,25 @@
+
+p{color:rgb(226, 43, 43)}
+
+/*who{what:how}*/
+
+h1{color:rgb(23, 241, 205)}
+
+h2{color: rgb(47, 78, 255)}
+
+
+.red{
+    color:brown;
+    margin: 10px;
+    border style:solid;
+    border color: black;
+    border: radius 30px;
+    text align: centre;
+}
+
+
+#header{
+    color: aqua;
+    text-align: center;
+}
+
